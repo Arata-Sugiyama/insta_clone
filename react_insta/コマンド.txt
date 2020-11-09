@@ -1,2 +1,0 @@
-react reduxのインストール
-npx create-react-app . --template redux-typescript
